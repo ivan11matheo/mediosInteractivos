@@ -79,7 +79,7 @@ function preload()
 {
   //Canción
   //Emoji VIP de Pegboard Nerds
-  Emoji = loadSound('Pegboard Nerds - Emoji VIP [Monstercat Official Music Video].mp3');
+  Emoji = loadSound('Música/Pegboard Nerds - Emoji VIP [Monstercat Official Music Video].mp3');
   
   //Imagenes
   A = loadImage('Imagenes/4782dd9cb90503f8de4e2ab851daa256.jpg');
