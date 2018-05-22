@@ -389,7 +389,7 @@ function yoshi()
     
     //Hace saltar al personaje 
     this.y = this.y - vol;
-    this.y = this.y - 2;
+    this.y = this.y - 20;
     print(this.y);
   }
   
