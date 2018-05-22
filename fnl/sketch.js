@@ -383,7 +383,7 @@ function yoshi()
     //Variable que recibe el valor del volumen del microfono
     var vol = mic.getLevel();
     //Se multiplica el valor del volumen para permitir la visualización
-    vol += vol * 5000;
+    vol += vol * 1000;
     
     print(vol);
     
